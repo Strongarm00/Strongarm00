@@ -16,6 +16,6 @@ I’m a passionate cloud computing enthusiast with a focus on building scalable 
 
 ## 📫 How to reach me
 
-- [LinkedIn Profile](www.linkedin.com/in/mark-armstrong868)
+- [LinkedIn Profile](https://www.linkedin.com/in/mark-armstrong868)
 - [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=mark.armstrong868@gmail.com)
 - [Portfolio](https://armstrong-industries.net)
